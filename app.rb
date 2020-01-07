@@ -31,7 +31,7 @@ end
      answer = "unable to perform"
      
      case params[:operation]
-     
+      when 
      
      
  
