@@ -31,7 +31,7 @@ end
      answer = "unable to perform"
      
      case params[:operation]
-      when 'add'
+     when 'add'
         answer = (number1 + number2).to_s 
         
        when 'subtract'
