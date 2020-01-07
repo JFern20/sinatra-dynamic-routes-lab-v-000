@@ -30,7 +30,9 @@ end
      
      answer = "unable to perform"
      
-     case 
+     case params[:operation]
+     
+     
      
  
 
